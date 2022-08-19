@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Syed Asad
-- 👀 I’m interested in Docker, Kubernetes, Rancher Desktop, RKE2, AWS, Oracle Cloud. 
+- 👀 I’m skilled in Siebel CRM, Oracle BI, BI Publisher, Oracle Engagement Cloud (Sales & Service), Docker, Kubernetes, Rancher Desktop, RKE2, AWS, and Oracle Cloud.
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on consulting opportunities. 
 - 📫 You can reach out to me on syedasad+github@gmail.com
 
 <!---
